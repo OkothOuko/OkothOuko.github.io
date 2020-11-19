@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on Okoth Ouko portfolio</title>
-    <link>https://OkothOuko.github.io/about/</link>
-    <description>Recent content in Abouts on Okoth Ouko portfolio</description>
+    <title>Abouts on Okoth Ouko</title>
+    <link>https://okothouko.github.io/about/</link>
+    <description>Recent content in Abouts on Okoth Ouko</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2020 15:56:37 +0300</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://OkothOuko.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://okothouko.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Dev_life</title>
-      <link>https://OkothOuko.github.io/about/about/</link>
-      <pubDate>Sun, 15 Nov 2020 15:56:37 +0300</pubDate>
+      <title>New things about</title>
+      <link>https://okothouko.github.io/about/about/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://OkothOuko.github.io/about/about/</guid>
-      <description>introduction to myself</description>
+      <guid>https://okothouko.github.io/about/about/</guid>
+      <description>&amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&amp;rdquo;</description>
     </item>
     
   </channel>
